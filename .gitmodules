@@ -1,0 +1,12 @@
+[submodule "microservico-academico"]
+	path = microservico-academico
+	url = https://github.com/soudevjava/microservico-academico.git
+[submodule "microservico-financeiro"]
+	path = microservico-financeiro
+	url = https://github.com/soudevjava/microservico-financeiro.git
+[submodule "microservico-gestao"]
+	path = microservico-gestao
+	url = https://github.com/soudevjava/microservico-gestao.git
+[submodule "microservico-disciplinas"]
+	path = microservico-disciplinas
+	url = https://github.com/soudevjava/microservico-disciplinas.git
